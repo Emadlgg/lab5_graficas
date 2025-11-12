@@ -51,7 +51,30 @@ ESC       Salir
 
 ## 📸 Galería
 
-[Aquí irían tus screenshots de cada planeta]
+### ☀️ Sol (Estrella)
+![Sol](images/sun.png)
+*Estrella con 5 capas: manchas solares, granulación, erupciones animadas y corona brillante*
+
+### 🔴 Marte (Planeta Rocoso)
+![Marte](images/mars.png)
+*Planeta rocoso con cráteres realistas, casquetes polares y variación de terreno*
+
+### 🌍 Tierra (Planeta Rocoso + Luna)
+![Tierra](images/tierra.png)
+*Océanos profundos, continentes verdes, nubes animadas y luna orbitando*
+
+### 🟠 Júpiter (Gigante Gaseoso)
+![Júpiter](images/jupiter.png)
+*Bandas horizontales, turbulencia atmosférica y Gran Mancha Roja*
+
+### 🪐 Saturno (Gigante Gaseoso + Anillos)
+![Saturno](images/saturno.png)
+*Atmósfera serena con sistema de anillos y División de Cassini*
+
+### 🔵 Neptuno (Gigante de Hielo)
+![Neptuno](images/neptuno.png)
+*Azul intenso con tormentas y variación latitudinal*
+ 
 
 ## 🚀 Instalación
 ```bash
