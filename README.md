@@ -11,8 +11,6 @@ Laboratorio de Gráficas por Computadora que implementa un **renderizador 3D por
 - 🟠 **Júpiter** (Gigante Gaseoso) - 4 capas: bandas horizontales, turbulencia, Gran Mancha Roja, oscurecimiento polar
 - 🪐 **Saturno** (Gigante Gaseoso) - 4 capas: color crema, bandas sutiles, turbulencia atmosférica, hexágono polar
 - 🔵 **Neptuno** (Gigante de Hielo) - 4 capas: azul intenso, tormentas, variación latitudinal, iluminación
-
-### 🎁 **Características BONUS**
 - 🌙 **Luna orbitando la Tierra** - Shader independiente con cráteres y mares lunares
 - 💍 **Anillos de Saturno** - Sistema de anillos con bandas concéntricas y División de Cassini
 - 🎬 **Animaciones procedurales** - Nubes terrestres, erupciones solares, turbulencia atmosférica
